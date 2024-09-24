@@ -1,24 +1,13 @@
+# HiLucas SmartFit - Monitor de Saúde com Micro
 
-> Abrir essa página em [https://hilucasfernandes.github.io/testando/](https://hilucasfernandes.github.io/testando/)
+- Desenvolvido por HiLucas (Lucas Fernandes), este projeto transforma o Micro em um dispositivo inteligente e multifuncional inspirado no conceito de SmartFit.
 
-## Usar como extensão
+# Funcionalidades:
 
-Este repositório pode ser adicionado como **extensão** no MakeCode.
+- Monitoramento da Temperatura Corporal: Mede e exibe a temperatura em tempo real.
+- Contador de Passos: Acompanha seus movimentos ao longo do dia.
+- Monitor de Atividade Física: Avalia a intensidade das atividades físicas.
 
-* abrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* clique em **Novo Projeto**
-* clique em **Extensões** em baixo do menu com ícone de engrenagem
-* procure por **https://github.com/hilucasfernandes/testando** e importe
+# Por que este projeto é interessante?
 
-## Editar este projeto
-
-Para editar este repositório no MakeCode.
-
-* abrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* clique em **Importar** e depois clique em **Importar URL**
-* cole **https://github.com/hilucasfernandes/testando** e clique em importar
-
-#### Metadados (usados para pesquisa, renderização)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+- Este código utiliza a simplicidade e versatilidade do Micro para replicar funcionalidades de dispositivos de monitoramento de saúde mais sofisticados. É uma solução acessível, compacta e altamente educacional, sendo ideal para iniciantes e entusiastas da tecnologia. Ao transformar o Micro em uma ferramenta de monitoramento de saúde, este projeto une aprendizado prático com inovação em saúde, criando um ponto de entrada acessível ao mundo dos dispositivos inteligentes.
